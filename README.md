@@ -14,7 +14,11 @@
 ✅ **Upload và hỏi PDF** — sử dụng **Ollama Embeddings (nomic-embed-text)** để lưu vector FAISS.  
 ✅ **RAG Pipeline tự động** — kết hợp truy vấn lịch sử hội thoại và sinh phản hồi theo ngữ cảnh.  
 ✅ **Giao diện Streamlit** — dễ sử dụng, có thể triển khai nhanh qua Streamlit Cloud hoặc local.
+## 🧠 Demo Giao Diện Ứng Dụng
 
+Giao diện chính của Chatbot RAG khi chạy trên Streamlit:
+
+![App Screenshot](app_ui.png)
 ---
 
 ## 🧱 Cấu trúc thư mục
